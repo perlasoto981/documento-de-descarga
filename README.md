@@ -1,2 +1,2 @@
 # documento-de-descarga
-pagina de enlacen de descarga UVMX
+pagina de enlace de descarga UVMX
